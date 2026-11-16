@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "ru.visuals.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["SimpleOptionAccessor", "InGameHudMixin", "GameRendererMixin", "HeldItemRendererMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
